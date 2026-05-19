@@ -1,6 +1,0 @@
-{
-  "name": "J.A. BOM DOXE",
-  "description": "O melhor da culinária num só lugar! Portuguese, Brazilian, and Cape Verdean gourmet experience in Corroios.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
